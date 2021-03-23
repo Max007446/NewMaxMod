@@ -9,5 +9,5 @@ import (
 
 //NewMaxMod return a*b
 func NewMaxMod(a int32, b int32) int32 {
-	return a * b * b * a
+	return a * b
 }
